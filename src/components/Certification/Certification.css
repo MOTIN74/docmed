@@ -1,0 +1,10 @@
+#awards{
+    display: inline-flex;
+    width: 100%;
+    
+}
+#awards img{
+    width: 1/5;
+
+
+}

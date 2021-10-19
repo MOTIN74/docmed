@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "my-staging-project": "docmed-1c7f1",
+    "default": "docmed-1c7f1"
+  },
+  "targets": {}
+}
