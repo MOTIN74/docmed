@@ -1,6 +1,6 @@
 # Docmed Web App
 
-It is a single page application made with ReactJS, Tailwind CSS etc...
+- DOCMED IS A HEALTH SERVICES HOSPITAL.
 
 ## Live Demo of this website :
 
