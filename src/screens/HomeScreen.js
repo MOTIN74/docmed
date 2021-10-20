@@ -18,8 +18,8 @@ const HomeScreen = () => {
             <Services />
             <AboutUs />
              <Testmonials > </Testmonials>
-            <Portfolio/>
-            <Certification/>
+            {/* <Portfolio/> */}
+            {/* <Certification/> */}
             <FAQ/>
            
         </>

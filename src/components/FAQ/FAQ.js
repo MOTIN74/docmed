@@ -3,7 +3,9 @@ import Accordion from 'react-bootstrap/Accordion'
 import { Link } from 'react-router-dom';
 import faqImg from '../../assets/smile.jpg'
 
+
 const FAQ = () => {
+    
     return (
 
         
@@ -40,11 +42,13 @@ const FAQ = () => {
                     <Accordion.Body>
                     You should also bring along your NRIC/Passport or your CPF membership card. You will also need to sign a Medisave Authorisation Form authorising the CPF Board to deduct from your Medisave Account to pay for the hospital bill.
                     </Accordion.Body>
+                    
                 </Accordion.Item>
                 </Accordion>
                 
             </div>
         </div>
+       
        </div>
     );
 };

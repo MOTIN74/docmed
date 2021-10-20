@@ -5,6 +5,7 @@ import {  Link, useHistory } from "react-router-dom";
 import logo from '../../assets/logo.png';
 import { useOrder } from '../../contexts/OrderProvider';
 import useAuth from '../../hooks/useAuth';
+import './Navbar.css'
 
 const Navbar = () => {
     const [changeHeader, setChangeHeader] = useState(false)
@@ -24,7 +25,7 @@ const Navbar = () => {
     //change header by scrolling
     window.addEventListener('scroll', onChangeHeader)
     return (
-        <header className={changeHeader ? "bg-white fixed z-50 top-0 left-0 w-full shadow-md transition duration-500" : "bg-transparent fixed z-50 top-0 left-0 w-full transition duration-500"}>
+        <header className={changeHeader ? " w-100 bg-white fixed z-50 top-0 left-0 w-full shadow-md transition duration-500" : "bg-transparent fixed z-50 top-0 left-0 w-full transition duration-500"}>
             <nav className="flex items-center max-w-screen-xl mx-auto px-6 py-3">
                 {/* left  */}
                 <div className="flex flex-grow">
@@ -35,8 +36,7 @@ const Navbar = () => {
                     
                         <Link to="/"><li  className="mx-2 text-lg ">Home</li></Link>
                         <Link to="/services"><li className="mx-2 text-lg">Services</li></Link>
-                        
-                        
+
                         <Link to="/testmonials"><li className="mx-2  text-lg">Testmonials</li></Link>
                         <Link to="/about"><li className="mx-2 text-lg">About Us</li></Link>
                         <Link to="/portfolio"><li className="mx-2 text-lg"> Portfolio</li></Link>

@@ -34,8 +34,8 @@ const App = () => {
             <Route exact path="/services"><Services /></Route>
             <Route exact path="/testmonials"><Testmonials /></Route>
             <PrivateRoute exact path="/portfolio"><Portfolio /></PrivateRoute>
-            <Route exact path="/certification"><Certification /></Route>
-            <PrivateRoute exact path="/faq"><FAQ /></PrivateRoute>
+            <PrivateRoute exact path="/certification"><Certification /></PrivateRoute>
+            <Route exact path="/faq"><FAQ /></Route>
             
             <PublicRoute exact path="/signin"><SignInScreen /></PublicRoute>
             <PublicRoute exact path="/signup"><SignUpScreen /></PublicRoute>

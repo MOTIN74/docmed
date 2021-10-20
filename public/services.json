@@ -9,64 +9,80 @@
             "img":"https://i.ibb.co/FsVmMVx/x1-png-pagespeed-ic-x3q-Ds-w-H-Z.webp",
              "type": "medicine"
 },
+{
+                    "id":35,"name":"Opaterion Service","price":15550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW1GLwe7l3kpGYv7RzWTKIiTSzksrLZqp77Q&usqp=CAU","type": "medicine"
+                },
+                {
+                    "id":33,"name":"Surgery Service","price":15550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://i.ibb.co/56V6Wcx/x6-png-pagespeed-ic-H-Jz9l-DBS.webp","type": "medicine"
+                },
+                {
+                    "id":30,"name":"PLOS Medicine","price":15550,"description":
+                    "It is published by Public Library of Science. The overall rank of PLoS Medicine is 305. According to SCImago Journal Rank (SJR), this journal is ranked 4.847. ... It considers the number of citations received by a journal and the importance of the journals from where these citations come..","center":"DMCH","img":"https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/keep_your_medicines_straight_slideshow/650x350_keep_your_medicines_straight_slideshow.jpg","type": "medicine"
+                },
+        
+            {
+                    "id":31,"name":"Medicine","price":15550,"description":" The “corporate practice of medicine” doctrine restricts the types of healthcare businesses non-physicians can own, but with MSO agreements and appropriate legal guidance, entrepreneurs have an opportunity to earn healthcare dollars without fines or possible jail time.","center":"DMCH","img":"https://bsmedia.business-standard.com/_media/bs/img/article/2019-06/24/full/1561315532-6265.jpg","type": "medicine"
+                },
+        
             {
                     "id":12,"name":"Physical Therapy","price":5550,"description":" physical therapy and physiotherapy are exactly the same! There is, in fact, no difference between the two terms and each term can be used interchangeably. They are synonyms. ... Some practitioners suggest that physiotherapy is more concerned with manual therapy..","center":"DMCH","img":"https://ct1.medstarhealth.org/content/uploads/sites/16/2020/09/Physical_therapy_with_mask_on_1000x460.jpg","type": "medicine"
                 },
+           
+        
             {
-                    "id":13,"name":"Dental Care","price":3050,"description":" Dental care is the maintenance of healthy teeth and may refer to: Oral hygiene, the practice of keeping the mouth and teeth clean in order to prevent dental disorders. Dentistry, the professional care of teeth, including professional oral hygiene and dental surgery.","center":"DMCH","img":"https://i.ibb.co/n6qLPTx/x1-png-pagespeed-ic-U-DRb-IH0-OK.webp","type": "surgery"
+                    "id":19,"name":"NeuroService","price":20550,"description":" Neurological disorders are medically defined as disorders that affect the brain as well as the nerves found throughout the human body and the spinal cord. Structural, biochemical or electrical abnormalities in the brain, spinal cord or other nerves can result in a range of symptoms.","center":"DMCH","img":"https://3pw8zx30ta4c3jegjv14ssuv-wpengine.netdna-ssl.com/wp-content/uploads/sites/2/2018/12/18-NEU-8685-multimodal-monitoring-650x450.jpg","type": "neuro"
                 },
-            {
-                    "id":14,"name":"Diagnostic Test","price":9050,"description":" A diagnostic test is a test used to identify a condition or its cause. It is used to diagnose. A diagnostic test performed as a part of a medical exam may be used to identify the cause of symptoms or identify a disease.","center":"DMCH","img":"https://i.ibb.co/Czdshdg/Neuroscience-Nurse-Featured.png","type": "neuro"
+                
+                {
+                    "id":16,"name":"Head injury","price":10550,"description":" A head injury is any trauma to the scalp, skull, or brain. The injury may be only a minor bump on the skull or a serious brain injury. Head injury can be either closed or open (penetrating). A closed head injury means you received a hard blow to the head from striking an object, but the object did not break the skull.","center":"DMCH","img":"https://patientcarehomeservicebd.com/wp-content/uploads/2018/07/Neuro-Patient-Care.jpg","type": "neuro"
                 },
-            {
-                    "id":15,"name":"Skin Surgery", "price":6550,"description":" Skin surgery is routinely performed by dermatologists and plastic surgeons, mostly using local anaesthesia. Types of skin surgery include: Skin biopsy (punch biopsy, shave biopsy, incisional biopsy and excision biopsy) Electrosurgery.","center":"IBN sina","img":"https://i.ibb.co/3MYXcdm/x5-png-pagespeed-ic-AJvtq-HVh-NN.webp","type": "surgery"
-                },
-            {
-                    "id":16,"name":"Surgery Service","price":15550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://i.ibb.co/56V6Wcx/x6-png-pagespeed-ic-H-Jz9l-DBS.webp","type": "neuro"
+                
+                {
+                    "id":14,"name":"Diagnostic Test","price":15050,"description":" Listen to pronunciation. (DY-ug-NAH-stik proh-SEE-jer) A type of test used to help diagnose a disease or condition. Mammograms and colonoscopies are examples of diagnostic procedures.","center":"DMCH","img":"https://i.ibb.co/Czdshdg/Neuroscience-Nurse-Featured.png","type": "neuro"
                 },
         
             {
-                    "id":17,"name":"Surgery Service","price":15550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://i.ibb.co/56V6Wcx/x6-png-pagespeed-ic-H-Jz9l-DBS.webp","type": "neuro"
+                    "id":17,"name":"Brein","price":50550,"description":" It assembles the messages in a way that has meaning for us, and can store that information in our memory. The brain controls our thoughts, memory and speech, movement of the arms and legs, and the function of many organs within our body. The central nervous system (CNS) is composed of the brain and spinal cord..","center":"DMCH","img":"https://c8.alamy.com/comp/A855H4/neuro-surgery-surgeon-nurse-and-anesthetist-with-patient-in-hospital-A855H4.jpg","type": "neuro"
                 },
         
             {
-                    "id":18,"name":"Surgery Service","price":15550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://i.ibb.co/56V6Wcx/x6-png-pagespeed-ic-H-Jz9l-DBS.webp","type": "surgery"
+                    "id":20,"name":"Breain stock","price":150550,"description":" A stroke occurs when the blood supply to part of your brain is interrupted or reduced, preventing brain tissue from getting oxygen and nutrients. Brain cells begin to die in minutes. A stroke is a medical emergency, and prompt treatment is crucial. Early action can reduce brain damage and other complications.","center":"DMCH","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9m5heFmg_nVzlFmUX42NnqsPgknRcEsO1zjnJoY_UXszow9oMighbPYA80WyxTB7VSAo&usqp=CAU","type": "neuro"
                 },
         
             {
-                    "id":19,"name":"Surgery Service","price":15550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://i.ibb.co/56V6Wcx/x6-png-pagespeed-ic-H-Jz9l-DBS.webp","type": "neuro"
+                    "id":21,"name":"Nurves ","price":25550,"description":" Guillain-Barre (gee-YAH-buh-RAY) syndrome is a rare disorder in which your body's immune system attacks your nerves. Weakness and tingling in your extremities are usually the first symptoms. These sensations can quickly spread, eventually paralyzing your whole body","center":"DMCH","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT57C6N2N3N-XqOTfZkhukyE9bsuI93f_iBfq-HKmX-MmaeOdFd9LoBZnZ0TgYkZwmLjg0&usqp=CAU","type": "neuro"
                 },
         
             {
-                    "id":20,"name":"Surgery Service","price":15550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://i.ibb.co/56V6Wcx/x6-png-pagespeed-ic-H-Jz9l-DBS.webp","type": "neuro"
-                },
-        
-            {
-                    "id":21,"name":"Surgery Service","price":15550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"","type": "surgery"
-                },
-        
-            {
-                    "id":22,"name":"Head injury","price":15550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://smhs.gwu.edu/neurosurgery/sites/neurosurgery/files/styles/1170-x-variable/public/Neuro-scans-large-banner_770x320.jpg?itok=B5XKsDEd","type": "surgery"
+                    "id":22,"name":"Head injury","price":15550,"description":" bump on the skull or a serious brain injury. Head injury can be either closed or open (penetrating). A closed head injury means you received a hard blow to the head from striking an object, but the object did not break the skull..","center":"DMCH","img":"https://smhs.gwu.edu/neurosurgery/sites/neurosurgery/files/styles/1170-x-variable/public/Neuro-scans-large-banner_770x320.jpg?itok=B5XKsDEd","type": "surgery"
                 },
         
             {
                     "id":23,"name":"Surgery Service","price":15550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://i.ibb.co/56V6Wcx/x6-png-pagespeed-ic-H-Jz9l-DBS.webp","type": "surgery"
                 },
         
-            {
-                    "id":24,"name":"Surgery Service","price":15550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://i.ibb.co/56V6Wcx/x6-png-pagespeed-ic-H-Jz9l-DBS.webp","type": "others"
-                },
+            
         
             {
                     "id":25,"name":"Surgery Service","price":15550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://i.ibb.co/56V6Wcx/x6-png-pagespeed-ic-H-Jz9l-DBS.webp","type": "surgery"
                 },
         
-            {
-                    "id":26,"name":"Surgery Service","price":15550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://i.ibb.co/56V6Wcx/x6-png-pagespeed-ic-H-Jz9l-DBS.webp","type": "others"
-                },
+           
         
             {
                     "id":27,"name":"Surgery Service","price":15550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://i.ibb.co/56V6Wcx/x6-png-pagespeed-ic-H-Jz9l-DBS.webp","type": "surgery"
+                },
+                {
+                    "id":13,"name":"Dental Care","price":3050,"description":" Dental care is the maintenance of healthy teeth and may refer to: Oral hygiene, the practice of keeping the mouth and teeth clean in order to prevent dental disorders. Dentistry, the professional care of teeth, including professional oral hygiene and dental surgery.","center":"DMCH","img":"https://i.ibb.co/n6qLPTx/x1-png-pagespeed-ic-U-DRb-IH0-OK.webp","type": "surgery"
+                },
+            
+            {
+                    "id":15,"name":"Skin Surgery", "price":6550,"description":" Skin surgery is routinely performed by dermatologists and plastic surgeons, mostly using local anaesthesia. Types of skin surgery include: Skin biopsy (punch biopsy, shave biopsy, incisional biopsy and excision biopsy) Electrosurgery.","center":"IBN sina","img":"https://i.ibb.co/3MYXcdm/x5-png-pagespeed-ic-AJvtq-HVh-NN.webp","type": "surgery"
+                },
+           
+        
+            {
+                    "id":18,"name":"Surgery Service","price":15550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://i.ibb.co/56V6Wcx/x6-png-pagespeed-ic-H-Jz9l-DBS.webp","type": "surgery"
                 },
         
             {
@@ -74,35 +90,29 @@
                 },
         
             {
-                    "id":29,"name":"Surgery Service","price":15550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://i.ibb.co/56V6Wcx/x6-png-pagespeed-ic-H-Jz9l-DBS.webp","type": "others"
+                    "id":29,"name":"CheckUp Service","price":30550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://media.istockphoto.com/photos/offering-patientcentred-care-that-proves-effective-and-efficient-picture-id1301555107?b=1&k=20&m=1301555107&s=170667a&w=0&h=urags5L_xQX4tiAVkW8Hws70_Z2EwnFvDoT2gOqgfk8=","type": "others"
+                },
+        
+                {
+                    "id":26,"name":"Surgery Service","price":152550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://i.ibb.co/56V6Wcx/x6-png-pagespeed-ic-H-Jz9l-DBS.webp","type": "others"
                 },
         
             {
-                    "id":30,"name":"Surgery Service","price":15550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://i.ibb.co/56V6Wcx/x6-png-pagespeed-ic-H-Jz9l-DBS.webp","type": "medicine"
+                    "id":32,"name":"Lab test","price":52550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-OFBhq7K84E2BvZlJVPC9ye79kPQBQVzJAw&usqp=CAU","type": "others"
                 },
         
-            {
-                    "id":31,"name":"Medicine","price":15550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://bsmedia.business-standard.com/_media/bs/img/article/2019-06/24/full/1561315532-6265.jpg","type": "medicine"
-                },
-        
-            {
-                    "id":32,"name":"Lab test","price":15550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-OFBhq7K84E2BvZlJVPC9ye79kPQBQVzJAw&usqp=CAU","type": "others"
-                },
-        
-            {
-                    "id":33,"name":"Surgery Service","price":15550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://i.ibb.co/56V6Wcx/x6-png-pagespeed-ic-H-Jz9l-DBS.webp","type": "medicine"
-                },
+          
         
             {
                     "id":34,"name":"Corona","price":15550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbF5C8ckqSOuK585oXTghm6N8UuFEckWkEww&usqp=CAU","type": "others"
                 },
-        
-            {
-                    "id":35,"name":"Opaterion Service","price":15550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW1GLwe7l3kpGYv7RzWTKIiTSzksrLZqp77Q&usqp=CAU","type": "medicine"
+                {
+                    "id":24,"name":"Surgery Service","price":25550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://i.ibb.co/56V6Wcx/x6-png-pagespeed-ic-H-Jz9l-DBS.webp","type": "others"
                 },
         
+            
             {
-                    "id":36,"name":"Surgery Service","price":15550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://cdn.pixabay.com/photo/2016/11/08/05/29/surgery-1807541__340.jpg","type": "others"
+                    "id":36,"name":"Operation","price":20550,"description":" Any service in a hospital or medical centre that is procedure- or intervention-based, or supports surgical specialties. Anaesthesiology, cardiovascular surgery, ENT, general surgery, OB/GYN, orthopaedics, pathology, podiatry, radiology..","center":"DMCH","img":"https://cdn.pixabay.com/photo/2016/11/08/05/29/surgery-1807541__340.jpg","type": "others"
                 }
         
         
