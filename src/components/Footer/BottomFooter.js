@@ -9,7 +9,7 @@ const BottomFooter = () => {
     return (
         <div className="flex items-center pt-8">
             <div className="flex flex-grow">
-                <span className="poppins text-white-500"> <h2>CopyRight &copy; DOCMED, 2021. Developed by <Link to="/signup"className="text-red-600 fs-4">KHAN</Link>	</h2></span>
+                <span className="poppins text-white-500"> <h2>CopyRight &copy; DOCMED, 2021-2050. Developed by <Link to="/signup"className="text-red-600 fs-4">KHAN</Link>	</h2></span>
             </div>
            <div className="d-flex mx-3">
            <Link
